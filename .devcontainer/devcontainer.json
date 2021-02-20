@@ -37,7 +37,7 @@
 	// 
 	// 2. Uncomment these 'remoteEnv' lines:
 	"remoteEnv": {
-		"ASPNETCORE_Kestrel__Certificates__Default__Password": "reini01",
+		"ASPNETCORE_Kestrel__Certificates__Default__Password": "",
 		"ASPNETCORE_Kestrel__Certificates__Default__Path": "/home/vscode/.aspnet/https/aspnetapp.pfx",
 	  },
 	   //
